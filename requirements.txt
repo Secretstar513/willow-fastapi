@@ -3,4 +3,3 @@ sqlalchemy
 pydantic
 uvicorn
 fastapi-middleware
-sqlite
